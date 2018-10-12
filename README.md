@@ -1,0 +1,1 @@
+# kubernetes-offline-dependencies-1.12.1-docker-ce-17.03
