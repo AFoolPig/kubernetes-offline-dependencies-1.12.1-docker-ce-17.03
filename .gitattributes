@@ -2,3 +2,4 @@ images/coredns.tar.gz filter=lfs diff=lfs merge=lfs -text
 images/etcd.tar.gz filter=lfs diff=lfs merge=lfs -text
 images/kube-apiserver-amd64.tar.gz filter=lfs diff=lfs merge=lfs -text
 images/kube-apiserver.tar.gz filter=lfs diff=lfs merge=lfs -text
+images/kube-controller-manager.tar.gz filter=lfs diff=lfs merge=lfs -text
