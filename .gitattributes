@@ -7,3 +7,4 @@ images/kube-proxy.tar.gz filter=lfs diff=lfs merge=lfs -text
 images/kube-scheduler.tar.gz filter=lfs diff=lfs merge=lfs -text
 images/pause.tar.gz filter=lfs diff=lfs merge=lfs -text
 images/calico/cni.tar.gz filter=lfs diff=lfs merge=lfs -text
+images/calico/node.tar.gz filter=lfs diff=lfs merge=lfs -text
