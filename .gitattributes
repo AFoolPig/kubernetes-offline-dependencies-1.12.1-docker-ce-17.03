@@ -13,3 +13,4 @@ debs/docker-ce_17.03.3~ce-0~ubuntu-xenial_amd64.deb filter=lfs diff=lfs merge=lf
 debs/kubeadm_1.12.1-00_amd64.deb filter=lfs diff=lfs merge=lfs -text
 debs/kubectl_1.12.1-00_amd64.deb filter=lfs diff=lfs merge=lfs -text
 debs/kubelet_1.12.1-00_amd64.deb filter=lfs diff=lfs merge=lfs -text
+debs/kubernetes-cni_0.6.0-00_amd64.deb filter=lfs diff=lfs merge=lfs -text
